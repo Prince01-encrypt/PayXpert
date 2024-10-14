@@ -15,3 +15,6 @@ The Tax Management section helps calculate and view tax details for employees.
 In the Financial Reporting submenu, users can generate detailed financial summaries and income statements.
 
 This hierarchical menu design ensures that users can easily navigate through tasks while maintaining clarity and control over payroll operations.
+
+![image](https://github.com/user-attachments/assets/68104db4-631f-4886-9aff-4409405065fd)
+
